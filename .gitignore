@@ -1,7 +1,7 @@
 # Distribution / packaging
-dist/
 instance/
 *.egg-info/
+*.tar.gz
 
 # Unit test / coverage reports
 htmlcov/
