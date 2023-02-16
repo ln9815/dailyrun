@@ -1,7 +1,8 @@
 # Daily Run tool
 ## How to use
 this script will run the specified command at the specified time points every day.
-download whl file from folder dist, and install it with pip
+
+you need download whl file from folder dist, and install it with pip.
 
     pip install dailyrun-0.1.0-py3-none-any.whl
 
