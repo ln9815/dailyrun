@@ -1,18 +1,10 @@
 # Daily Run tool
-## How to install
-colne to local, run it in venv.
-
-    pip install -e .
-    pip install build
-    python -m build
-
-then you can get dailyrun-0.1.0-py3-none-any.whl in folder dist. and install it with pip
+## How to use
+this script will run the specified command at the specified time points every day.
+download whl file from folder dist, and install it with pip
 
     pip install dailyrun-0.1.0-py3-none-any.whl
 
-
-## How to use
-this script will run the specified command at the specified time points every day.
 Used as following:
 
     Usage: dailyrun [OPTIONS]
