@@ -16,3 +16,5 @@ Run command 'dir' and 10:00 and 11：00 every day.
 
     dailyrun -c dir -t 10:00&11:00
     dailyrun -cmd 'ls -l' -times '10:00&11:00'
+
+    
